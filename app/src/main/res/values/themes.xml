@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SureRiderDriver" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/primary_color</item>
+         <item name="colorPrimaryDark">@color/dark_primary_color</item>
+         <item name="colorAccent">@color/accent_color</item>
+    </style>
+
+    <style name="Theme.RooitAndroidCodingTest" parent="Base.Theme.SureRiderDriver" />
+</resources>
